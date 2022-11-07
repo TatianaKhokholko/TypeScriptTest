@@ -1,0 +1,9 @@
+{
+    "Deal1": {
+      "name": "Deal_1",
+      "pipeline": "ForAutotests",
+      "stage": "Won",
+      "company": "",
+      "assignToUser": "Auto Test"
+    }
+  }

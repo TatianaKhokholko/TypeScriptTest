@@ -1,0 +1,7 @@
+{
+  "tenantAuto01": {
+    "login": "TenantAutomation01@mailinator.com",
+    "password": "TenantAutomation01",
+    "tenant": "Auto Test"
+  }
+}

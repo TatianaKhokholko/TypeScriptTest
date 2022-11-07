@@ -1,0 +1,21 @@
+{
+    "Company1": {
+      "domain": "google.com",
+      "name": "TestCompany1",
+      "description": "Let's do this",
+      "country": "United States",
+      "industry": "Software",
+      "type": "Lead",
+      "employeeCount": "",
+      "streetLine1": "",
+      "streetLine2": "",
+      "zipCode": "",
+      "city": "",
+      "state": "",
+      "linkedInURL": "",
+      "twitterURL": "",
+      "facebookURL": "",
+      "instagramURL": "",
+      "annualRevenue": ""
+    }
+  }
