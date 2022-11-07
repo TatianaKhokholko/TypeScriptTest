@@ -10,8 +10,7 @@ import data from 'src/e2e/data/envVariables.json';
 export function global() {
   let browser: puppeteer.Browser;
   let page: puppeteer.Page;
-  const url = 'https://account.inperium.qa';
-  // const url = `${process.env.REACT_APP_ACCOUNT_URL}`;
+  const url = `${process.env.REACT_APP_ACCOUNT_URL}`;
 
   /**
    * Driver initialization, confirm basic authorization, adjusting to behavior view
